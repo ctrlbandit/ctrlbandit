@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-55239aadad1f5f.gif" alt="welcome-banner" width="400px">
-  <br>https://youtu.be/tyx0_ytltz4?si=6f-W2W4XvHrKWrfD
-</p>
 
 ---
 
