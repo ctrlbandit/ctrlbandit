@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
 </p>
-# 🚀 Deployment
 
+# 🚀 Deployment
 <p align="center">
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF"/>
   <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098"/>
