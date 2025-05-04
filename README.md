@@ -22,16 +22,20 @@
 </details>
 
 <details>
-<summary>🎨 Styling</summary>
+<summary>🎨 Styling & Motion</summary>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=CC6699"/>
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostCSS-000000?style=for-the-badge&logo=postcss&logoColor=DD3A0A"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anime.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+  <img src="https://img.shields.io/badge/Vanta.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 </p>
 </details>
+
 
 <details>
 <summary>🚀 Deployment</summary>
