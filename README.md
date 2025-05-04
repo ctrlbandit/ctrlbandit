@@ -90,9 +90,6 @@
 </p>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="color:white; background:black; padding:6px; font-weight:bold; border-radius:6px;">
-    Thanks for reading!
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Thanks+for+reading!" alt="Thanks for reading!" />
 </p>
-
 ---
