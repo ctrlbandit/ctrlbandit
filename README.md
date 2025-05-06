@@ -1,6 +1,6 @@
 <!-- 🎉 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Hi%20%20I'm%20Clawigcal&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=302&color=gradient&text=Hi%20%20I'm%20Dogdev&reversal=true"/>
 </p>
 
 <!-- ✍️ Typing Intro -->
