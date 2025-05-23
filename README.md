@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=16yo+Full+Stack+Developer" />
 </p>
 
-
-IRL Name: Sathish | Online Name: Clawgical
-
 ---
 
 ## 🛠️ Tech Stack  
