@@ -89,7 +89,6 @@
 ## 📂 Projects
 
 - [🔡 Unicode-Inspector](https://github.com/ctrlbandit/unicode-inspector)  
-- [🛡️ Email Phishing Detector](https://phish-detector-omega.vercel.app)  
 - [🔐 Password Generator](https://github.com/ctrlbandit/password-manager-pro)
 
 ---
