@@ -88,8 +88,9 @@
 
 ## 📂 Projects
 
-- [🔡 Unicode-Inspector](https://github.com/ctrlbandit/unicode-inspector)  
-- [🔐 Password Generator](https://github.com/ctrlbandit/password-manager-pro)
+- [Unicode-Inspector](https://github.com/ctrlbandit/unicode-inspector)  
+- [Password Generator](https://github.com/ctrlbandit/password-manager-pro)
+- [Server Theme Generator](https://ctrlbandit.github.io/discord-theme-generator/)
 
 ---
 
