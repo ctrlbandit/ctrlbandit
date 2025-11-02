@@ -29,14 +29,6 @@
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00"/><br/>
-      <sub><b>Svelte</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="120">
       <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white"/><br/>
       <sub><b>Astro</b></sub>
     </td>
@@ -58,18 +50,6 @@
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white"/><br/>
       <sub><b>Wireshark</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=linux&logoColor=white"/><br/>
-      <sub><b>Nmap</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white"/><br/>
-      <sub><b>OWASP ZAP</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/PyQt6-000000?style=for-the-badge&logo=qt&logoColor=41CD52"/><br/>
-      <sub><b>PyQt6</b></sub>
     </td>
   </tr>
 </table>
