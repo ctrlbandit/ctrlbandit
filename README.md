@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack  
 
-> What I write in daily:
+> Here you go.
 
 <div align="center">
 
