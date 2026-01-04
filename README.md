@@ -34,4 +34,4 @@
 ```
 
   <img src="https://files.catbox.moe/rv17x4.png" width="300">
-  My Ultimate Life Form Brother https://github.com/hedgehogform 😁
+  My Ultimate Life Form Brother https://github.com/hedgehogform
