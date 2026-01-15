@@ -9,29 +9,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yvrxm4ddcemo7kvz6aeraup2hy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ff0000)](https://github.com/kittinan/spotify-github-profile)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ctrlbandit&bg_color=000000&color=FF0000&line=0000FF&point=FFFF00&area=true&hide_border=true&area_color=FF0000)
-
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠠⢶⣿⣿⣿⣿⣿⣿⣿⠏⢳⣄⡀⠀⣀⣀⠀⠀⠀⠀⠀
-⠘⣶⣤⣤⣤⣠⣤⣬⣿⣿⣿⣿⣿⣿⣤⣴⣿⣿⣍⣻⠁⠀⠀⠀⠀⠀
-⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀
-⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⢀⡙⣿⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⠧⠸⢃⣹⣿⣃⡀⡠⣀⠀⠀
-⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠒⣄⣀⠜⢽⣷⣷⡇⠀⢀
-⠀⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⢸⠋⣉⠀⡠⠊
-⠀⠀⠀⠈⠉⠛⠛⠛⠛⠋⠉⣴⣿⣿⣿⣿⣿⣿⣧⣠⣿⣿⣦⣵⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠻⣿⣿⣿⠙⠿⠿⡿⠟⠁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⣾⡿⢻⣿⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⣚⣿⣿⠃⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠉⣠⣿⡏⡄⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣍⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⠿⠿⠿⣇⠠⣼⣿⣿⣿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣶⣶⣿⣇⢳⣉⣉⣉⡬⠆⠀⠀⢀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⡞⠰⠀⠈⣿⣿⡿⠿⣿⣿⣿⣦⠀⠀⠀⣽⡆
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠚⠒⠒⠛⢱⣁⢠⠈⠙⢻⠻⣧⣒⣊⣽⠇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠚⠓⠋⠀⠀⠀⠀⠀⠀
-```
-
   <img src="https://files.catbox.moe/rv17x4.png" width="300">
   My Ultimate Life Form Brother https://github.com/hedgehogform
